@@ -1,0 +1,14 @@
+pandas
+numpy 
+seaborn
+matplotlib
+scikit-learn
+jupyter
+ipykernel
+dill
+xgboost
+catboost
+matplotlib
+seaborn
+streamlit 
+#-e .   # this is used to trigure the setup.py file 

@@ -1,0 +1,15 @@
+[ 2025-11-08 23:45:16,835 ] root -INFO - Custom data converted to DataFrame successfully
+[ 2025-11-08 23:45:16,835 ] root -INFO - Starting prediction pipeline
+[ 2025-11-08 23:45:17,224 ] root -INFO - Preprocessing input features
+[ 2025-11-08 23:45:17,236 ] root -INFO - Making predictions
+[ 2025-11-08 23:45:17,244 ] root -INFO - Decoding labels back to original classes
+[ 2025-11-08 23:52:24,277 ] root -INFO - Custom data converted to DataFrame successfully
+[ 2025-11-08 23:52:24,295 ] root -INFO - Starting prediction pipeline
+[ 2025-11-08 23:52:24,499 ] root -INFO - Preprocessing input features
+[ 2025-11-08 23:52:24,596 ] root -INFO - Making predictions
+[ 2025-11-08 23:52:24,609 ] root -INFO - Decoding labels back to original classes
+[ 2025-11-08 23:53:05,653 ] root -INFO - Custom data converted to DataFrame successfully
+[ 2025-11-08 23:53:05,653 ] root -INFO - Starting prediction pipeline
+[ 2025-11-08 23:53:05,691 ] root -INFO - Preprocessing input features
+[ 2025-11-08 23:53:05,701 ] root -INFO - Making predictions
+[ 2025-11-08 23:53:05,701 ] root -INFO - Decoding labels back to original classes
